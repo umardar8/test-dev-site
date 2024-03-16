@@ -1,5 +1,5 @@
 {
-  "name": "nextjs-blog-theme",
+  "name": "umer-farooq-dar",
   "description": "A customizable Next.js and Tailwind blog starter. Designed by the Bejamas agency.",
   "author": "Bejamas and Netlify Inc.",
   "contributors": [
@@ -42,5 +42,12 @@
     "netlify-plugin-cypress": "~2.2.1",
     "postcss": "^8.4.4",
     "tailwindcss": "^3.0.0"
-  }
+  },
+  "version": "1.0.0",
+  "main": ".prettierrc.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/umardar8/test-dev-site.git"
+  },
+  "license": "ISC"
 }
